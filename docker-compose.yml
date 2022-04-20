@@ -1,0 +1,7 @@
+
+services:
+  playground:
+    image: centos:7
+    working_dir: /home
+    volumes:
+      - ./files:/home
