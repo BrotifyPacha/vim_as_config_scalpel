@@ -36,9 +36,9 @@ Improved)
 
 ## Работа с одним файлом
 
-- Движения
-- Действия, комбинации с движениями
-- Поиск
+- Движения [cheatsheet](https://github.com/BrotifyPacha/vim_as_config_scalpel/blob/master/cheatsheet.md)
+- Действия, комбинации с движениями [cheatsheet](https://github.com/BrotifyPacha/vim_as_config_scalpel/blob/master/cheatsheet.md)
+- Поиск [cheatsheet](https://github.com/BrotifyPacha/vim_as_config_scalpel/blob/master/cheatsheet.md)
 - Сворачивание Vim (`Ctrl + z` | `fg`)
 
 ## Работа с несколькими файлами
